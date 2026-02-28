@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "良い人 (Sou ver.)",
+  "base_artist": "僕たちは夜な夜な",
+  "createdAt": "2026-02-28T19:05:10.368537Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "良い人 (Sou ver.)",
+      "artist": "僕たちは夜な夜な",
+      "has_synced": false,
+      "path": "select/pl_01_良い人_(Sou_ver.)_僕たちは夜な夜な.txt"
+    }
+  ]
+}
